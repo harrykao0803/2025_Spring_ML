@@ -1,1 +1,0 @@
-Run on Kaggle, using GPU P100.
